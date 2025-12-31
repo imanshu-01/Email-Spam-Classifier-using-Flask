@@ -106,13 +106,9 @@ Not Spam ✅
 
 ---
 
-## 🧠 Machine Learning Model Details
-- Algorithm: Naive Bayes / Logistic Regression
-- Vectorization Technique: CountVectorizer
-- Input Type: Text (Email Content)
-- Output Classes:
-  - `1` → Spam
-  - `0` → Not Spam
+## 🧠 Output 
+
+![Image](https://github.com/user-attachments/assets/db1d9047-6048-4195-a29c-f8030ed5cb9b)
 
 ---
 

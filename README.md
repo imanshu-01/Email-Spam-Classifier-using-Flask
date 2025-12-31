@@ -1,4 +1,4 @@
-# 📧 Email Spam & Not-Spam Classifier using Flask and Machine Learning
+# 📧 Email Spam Classifier using Flask and Machine Learning
 
 This project is an **advanced Flask-based web application** that uses **Machine Learning** techniques to classify an email or message as **Spam** or **Not Spam**.
 
@@ -6,7 +6,7 @@ This project is an **advanced Flask-based web application** that uses **Machine 
 
 ## 🚀 Key Features
 - Web-based Email Classification System
-- Detects **Spam and Not Spam (Ham)** messages
+- Detects **Spam and Not Spam** messages
 - Uses **Machine Learning Model**
 - Fast and Accurate Prediction
 - Simple UI with Flask
@@ -33,6 +33,8 @@ project/
 │── templates/
 │   └── index.html         # Frontend HTML file
 │── README.md              # Project Documentation
+│── requirements.txt       # used libraries
+
 ```
 
 ---

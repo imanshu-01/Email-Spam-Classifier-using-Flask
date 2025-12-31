@@ -25,7 +25,7 @@ This project is an **advanced Flask-based web application** that uses **Machine 
 
 ## 📂 Project Structure
 ```
-project/
+Email Spam Classifier using Flask/
 │── app.py                 # Main Flask application
 │── models/
 │   ├── cv.pkl             # CountVectorizer (Text → Numbers)
